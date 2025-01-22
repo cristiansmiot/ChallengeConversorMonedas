@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=https://github.com/DavidVF7/Conversor-de-Monedas/assets/103916971/645bfae6-38cf-4f90-add7-8f9b3929cb5a"
-</p>
-
 # Conversor de Monedas 💵💱💶
 
 Desarrollado como parte del Challenge Conversor de Monedas, propuesto por Alura Latam en colaboración con Oracle en el programa ONE, como parte de la especialización Back-End.
@@ -36,8 +32,6 @@ Esta clase se encarga de guardar el historial de consultas en un archivo de text
 
 El punto de entrada principal del programa. Aquí se maneja la interacción con el usuario a través de la consola, mostrando un menú de opciones y gestionando las conversiones de moneda.
 
-## 👨‍💻 Desarrollado por
-- David Velasco Fierros
 
 ## Instrucciones de Uso 🚀
 
@@ -46,9 +40,3 @@ El punto de entrada principal del programa. Aquí se maneja la interacción con 
 3. Ejecuta la clase Principal.java para iniciar el programa.
 4. Sigue las instrucciones en pantalla para realizar conversiones de moneda.
 
-¡Disfruta convirtiendo monedas!
-
-## ¿Cómo funciona? 🎥
-Aquí puedes ver una demostración visual de cómo funciona el proyecto:
-
-[Demostración del proyecto](https://youtu.be/a42KEl1l0kY)
